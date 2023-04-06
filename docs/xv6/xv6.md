@@ -13,8 +13,9 @@ scheduler. See documentation on [xv6 scheduling](/docs/xv6/sched.md) for details
 
 ## Accessing xv6
 
-> NOTE: It is recommended you follow these steps on Maize. Development in
-> other environments is not supported.
+> NOTE: It is recommended you follow these steps on
+> [Maize](/docs/intro/maize.md). Development in other environments is not
+> supported.
 
 You will probably want to clone the xv6 repository so you can make your own
 changes. MIT hosts the source code on their GitHub. Clone that repository
