@@ -13,7 +13,7 @@ we're going to be using the C LSP implementation, `clangd`. Follow
 ## Jump to Definition
 
 One of the most useful features of LSP is its `jump-to-definition` feature.
-Hover over any function, structure, or variable and `<Ctrl - Left Click>`
-(`<Cmd - Left Click>` on macOS). This will jump your cursor to the definition
-of said function, structure, or variable. Use this to navigate large
-codebases.
+If you use VSCode: hover over any function, structure, or variable and
+`<Ctrl - Left Click>` (`<Cmd - Left Click>` on macOS). This will jump to the
+definition of said function, structure, or variable. Use this to navigate
+large codebases.
