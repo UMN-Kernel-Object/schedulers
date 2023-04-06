@@ -1,15 +1,15 @@
 # Schedulers Documentation
 
-Find a *tree* of documents on operating system schedulers below.
-Tutorials will build upon each other, so greater prerequisite knowledge is
-is expected as you venture down the tree.
+You can find a *tree* of documents on operating system schedulers below.
+Tutorials will build upon each other, so prerequisite knowledge is expected as
+you venture down the tree.
 
 ## Documentation Tree
 
 ```
 ├── intro
 │   ├── [UKO Schedulers Mission](intro/mission.md)
-│   ├── [Using Maize System](intro/maize.md)
+│   ├── [Maize Machine](intro/maize.md)
 │   ├── [Language Server Protocol](intro/lsp.md)
 │   └── [External Documentation](extern/extern.md)
 └── xv6
