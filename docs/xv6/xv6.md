@@ -9,7 +9,7 @@ small number compared to modern operating systems. The code is also simple
 making it a great candidate to analyze and improve upon.
 
 The scheduling subgroup has made plans to profile and improve the xv6
-scheduler. See documentation on [xv6 scheduling](/xv6/sched.md) for details.
+scheduler. See documentation on [xv6 scheduling](/docs/xv6/sched.md) for details.
 
 ## Accessing xv6
 
