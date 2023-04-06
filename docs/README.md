@@ -11,7 +11,7 @@ is expected as you venture down the tree.
 │   ├── [UKO Schedulers Mission](intro/mission.md)
 │   ├── [Using Maize System](intro/maize.md)
 │   ├── [Language Server Protocol](intro/lsp.md)
-│   └── [External Documentation](extern)
+│   └── [External Documentation](extern/extern.md)
 └── xv6
     ├── [xv6 Operating System](xv6/xv6.md)
     └── [xv6 Scheduling](xv6/sched.md)
