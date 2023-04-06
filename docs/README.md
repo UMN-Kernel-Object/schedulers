@@ -10,11 +10,12 @@ you venture down the tree.
 ├── intro
 │   ├── [UKO Schedulers Mission](intro/mission.md)
 │   ├── [Maize Machine](intro/maize.md)
-│   ├── [Language Server Protocol](intro/lsp.md)
-│   └── [External Documentation](extern/extern.md)
-└── xv6
-    ├── [xv6 Operating System](xv6/xv6.md)
-    └── [xv6 Scheduling](xv6/sched.md)
+│   └── [Language Server Protocol](intro/lsp.md)
+├── xv6
+│   ├── [xv6 Operating System](xv6/xv6.md)
+│   └── [xv6 Scheduling](xv6/sched.md)
+└── extern
+    └── [External Documentation](extern/extern.md)
 ```
 
 ## Contributions
