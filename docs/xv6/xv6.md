@@ -37,10 +37,10 @@ Update the remote using:
 git remote update UKO
 ```
 
-Then checkout the UKO development branch:
+Then checkout the UKO `sched` development branch:
 
 ```
-git checkout UKO/sched
+git checkout sched
 ```
 
 Any changes you make to this branch may be committed normally and pushed
